@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Redux-Covid-App/static/css/main.3d6e944a.chunk.css",
-    "main.js": "/Redux-Covid-App/static/js/main.1d60c502.chunk.js",
-    "main.js.map": "/Redux-Covid-App/static/js/main.1d60c502.chunk.js.map",
-    "runtime-main.js": "/Redux-Covid-App/static/js/runtime-main.aec42013.js",
-    "runtime-main.js.map": "/Redux-Covid-App/static/js/runtime-main.aec42013.js.map",
-    "static/js/2.c717b0f5.chunk.js": "/Redux-Covid-App/static/js/2.c717b0f5.chunk.js",
-    "static/js/2.c717b0f5.chunk.js.map": "/Redux-Covid-App/static/js/2.c717b0f5.chunk.js.map",
-    "index.html": "/Redux-Covid-App/index.html",
-    "static/css/main.3d6e944a.chunk.css.map": "/Redux-Covid-App/static/css/main.3d6e944a.chunk.css.map",
-    "static/js/2.c717b0f5.chunk.js.LICENSE.txt": "/Redux-Covid-App/static/js/2.c717b0f5.chunk.js.LICENSE.txt"
+    "main.css": "/React-covid-app/static/css/main.3d6e944a.chunk.css",
+    "main.js": "/React-covid-app/static/js/main.1d60c502.chunk.js",
+    "main.js.map": "/React-covid-app/static/js/main.1d60c502.chunk.js.map",
+    "runtime-main.js": "/React-covid-app/static/js/runtime-main.2ff911f8.js",
+    "runtime-main.js.map": "/React-covid-app/static/js/runtime-main.2ff911f8.js.map",
+    "static/js/2.c717b0f5.chunk.js": "/React-covid-app/static/js/2.c717b0f5.chunk.js",
+    "static/js/2.c717b0f5.chunk.js.map": "/React-covid-app/static/js/2.c717b0f5.chunk.js.map",
+    "index.html": "/React-covid-app/index.html",
+    "static/css/main.3d6e944a.chunk.css.map": "/React-covid-app/static/css/main.3d6e944a.chunk.css.map",
+    "static/js/2.c717b0f5.chunk.js.LICENSE.txt": "/React-covid-app/static/js/2.c717b0f5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.aec42013.js",
+    "static/js/runtime-main.2ff911f8.js",
     "static/js/2.c717b0f5.chunk.js",
     "static/css/main.3d6e944a.chunk.css",
     "static/js/main.1d60c502.chunk.js"
